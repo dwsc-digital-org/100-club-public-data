@@ -1,1 +1,9 @@
-{"club":{"name":"Draycote Water Sailing Club 100 Club","registration":"Small Society Lottery, Rugby Borough Council"},"draws":[{"Status":"Completed","Draw ID":14,"Draw Date":"2026-05-06","Draw Month":"Test Production Run 2","Prize Fund Total":245,"First Prize Amount":196,"First Prize Number":1,"Second Prize Amount":49,"Second Prize Number":2,"Random.org Reference":"test-2","Eligible Credit Count":49},{"Status":"Completed","Draw ID":13,"Draw Date":"2026-05-06","Draw Month":"Test Production Run","Prize Fund Total":245,"First Prize Amount":196,"First Prize Number":1,"Second Prize Amount":49,"Second Prize Number":2,"Random.org Reference":"test-1","Eligible Credit Count":49}],"version":"1.0","last_updated":"2026-05-06T12:54:45Z"}
+{
+     "version": "1.0",
+     "last_updated": null,
+     "club": {
+       "name": "Draycote Water Sailing Club 100 Club",
+       "registration": "Small Society Lottery, Rugby Borough Council"
+     },
+     "draws": []
+   }
